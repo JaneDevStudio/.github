@@ -1,1 +1,3 @@
-# .github
+# Hey There! We Are JaneDevStudio！
+
+As you can see, we are a non-profit organization brought together by a group of PHP developers from all over the world. Right now, we’re actively expanding our team and warmly welcome anyone with technical expertise—whether you’re a coder, designer, sys-admin, or tinkerer of any stripe—to hop aboard. What we offer is a relaxed, remote-first environment where you can collaborate on open-source projects, sharpen your skills, and make friends across continents. The only detail to keep in mind: because we run entirely on passion and donations, there are no salaries or stipends—just the satisfaction of building cool stuff together and seeing it used by the community.
